@@ -10,6 +10,8 @@ namespace Projet_Algo
     {
         static void Main(string[] args)
         {
+
+            //ff
         }
     }
 }
